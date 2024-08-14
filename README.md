@@ -1,2 +1,2 @@
-# Super_store_dashboard
+# Super_store_sales_dashboard
 Power BI dashboard
